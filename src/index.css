@@ -9,3 +9,8 @@ body {
   padding: 0;
   font-family: 'Roboto', sans-serif;
 }
+select option[selected] {
+  font-size: 18px;
+  color: white;
+  background-color: #2e7c31;
+}
